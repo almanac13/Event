@@ -1,16 +1,3 @@
-//   Event Scheduling System Нурасыл М
-//• Event
-//• Participant
-//• Organizer
-//Create classes according to your subject area.
-//Requirements to project:
-//- create classes
-//- the class must have constructors, attributes, methods.
-//- Implementation of getter and setter methods.
-//- Create instances of classes in the main function.
-//- Output them to console, compare multiple objects.
-// Main Class
-
 public class Main {
     public static void main(String[] args) {
         Events event = new Events();
